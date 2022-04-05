@@ -7,6 +7,8 @@
 * Usually create fake data of review from customer.install react bootstrap & collected card from bootstrap.Then this data set in the card.. Create hook component.
 * In dashboard install rechart & collected data from it. Manually collected data programming hero github link.
 * In blogs Answered some questions.. 
+* Then git push all information on my private repository.
+* Then deploy the project on netlify .
 
 
 
