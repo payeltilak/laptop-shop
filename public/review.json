@@ -8,7 +8,7 @@
     },
     {
         "name": "Jara",
-        "picture": "https://content.fortune.com/wp-content/uploads/2021/11/BIL.0122.Sara-Blakely-Outside-horizontal.jpg",
+        "picture": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVtYWxlJTIwbW9kZWx8ZW58MHx8MHx8&w=1000&q=80",
         "comments": "Congratulations dear ",
         "rating": "3.4",
         "gender": "Female"
@@ -34,7 +34,6 @@
         "rating": "4.3",
         "gender": "Female"
     },
-    
     {
         "name": "Jamia",
         "picture": "https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
@@ -51,14 +50,14 @@
     },
     {
         "name": "Lona",
-        "picture": "https://images.pexels.com/photos/573299/pexels-photo-573299.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "picture": "https://images.unsplash.com/photo-1578979879663-4ba6a968a50a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHlvdW5nJTIwd29tYW58ZW58MHx8MHx8&w=1000&q=80",
         "comments": "This laptop is really outstanding, you have a great choice. ",
         "rating": "4.5",
         "gender": "Female"
     },
     {
         "name": "Raha",
-        "picture": "https://images.unsplash.com/photo-1628890920690-9e29d0019b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "picture": "https://cdn2.momjunction.com/wp-content/uploads/2021/02/What-Is-A-Sigma-Male-And-Their-Common-Personality-Trait-910x1024.jpg",
         "comments": "This laptop is great. But, don’t forget your girlfriend, too. Or she will be jealous, for sure.",
         "rating": "3.7",
         "gender": "Male"

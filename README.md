@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 # Project :My laptop Shop
 
+live-site : [laptop-shop](https://endearing-toffee-c817a5.netlify.app/).
+
+## Project Work & review
 * First of all, create a router app where name is My laptop shop. Then many create components. There are Home , Review, DashBoard, Blogs, About.. 
 * Then many path & element create in the home components.
 * Many link to connected home components in the header components.
@@ -9,10 +12,6 @@
 * In blogs Answered some questions.. 
 * Then git push all information on my private repository.
 * Then deploy the project on netlify .
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
