@@ -10,8 +10,8 @@ const Customer = ({ review }) => {
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <h4>{comments}</h4>
-                    <h5>{rating}</h5>
-                    <h3>{gender}</h3>
+                    <h5>Rating : {rating} star</h5>
+                    <h3> Gender : {gender}</h3>
 
 
                 </Card.Body>

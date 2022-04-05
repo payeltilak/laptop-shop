@@ -40,21 +40,21 @@
         "picture": "https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
         "comments": "Now You will go to the proramming hero website for learning web development course ",
         "rating": "4.6",
-        "gender": "Famale"
+        "gender": "Female"
     },
     {
         "name": "Jordana",
         "picture": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
         "comments": "Wow, this laptop really looks amazing. Congratulations.",
         "rating": "4.2",
-        "gender": "Famale"
+        "gender": "Female"
     },
     {
         "name": "Lona",
         "picture": "https://images.pexels.com/photos/573299/pexels-photo-573299.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
         "comments": "This laptop is really outstanding, you have a great choice. ",
         "rating": "4.5",
-        "gender": "Famale"
+        "gender": "Female"
     },
     {
         "name": "Raha",

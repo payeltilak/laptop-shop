@@ -1,5 +1,14 @@
 # Getting Started with Create React App
-# Project : laptop Shop
+# Project :My laptop Shop
+
+* First of all, create a router app where name is My laptop shop. Then many create components. There are Home , Review, DashBoard, Blogs, About.. 
+* Then many path & element create in the home components.
+* Many link to connected home components in the header components.
+* Usually create fake data of review from customer.install react bootstrap & collected card from bootstrap.Then this data set in the card.. Create hook component.
+* In dashboard install rechart & collected data from it. Manually collected data programming hero github link.
+* In blogs Answered some questions.. 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
